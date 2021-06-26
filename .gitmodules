@@ -1,0 +1,3 @@
+[submodule "gateware/riscv/picorv32"]
+	path = gateware/riscv/picorv32
+	url = https://github.com/cliffordwolf/picorv32
