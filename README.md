@@ -1,8 +1,8 @@
 # up5k_osc
 An FPGA-based digital oscillator for Eurorack
 
-![Front View](doc/front.jpg)
-![Back View](doc/back.jpg)
+![Front View](docs/front.jpg)
+![Back View](docs/back.jpg)
 
 ## What is it?
 up5k_osc is a Eurorack-format digital oscillator demonstrating digital
