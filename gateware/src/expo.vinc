@@ -1,0 +1,3 @@
+`define ADC_cal 40920
+`define ADC_shf 0
+`define ADC_msk 8'hff

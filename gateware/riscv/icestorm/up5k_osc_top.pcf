@@ -1,0 +1,42 @@
+# Pin assignments for up5k_osc project
+
+set_io clk_12 35
+
+set_io adc_si  10
+set_io adc_so  12
+set_io adc_clk 11
+set_io adc_cs  9
+
+set_io pdm_l_p 44
+set_io pdm_l_n 43
+set_io pdm_r_p 45
+set_io pdm_r_n 46
+
+set_io RGB0 39
+set_io RGB1 40
+set_io RGB2 41
+
+set_io LEDR 25
+
+set_io rx 32
+set_io tx 31
+
+set_io SYNC 6
+
+#set_io BTN 2
+
+set_io -pullup yes SW103[0] 3
+set_io -pullup yes SW103[1] 4
+
+set_io -pullup yes SW104[0] 21
+set_io -pullup yes SW104[1] 20
+
+set_io -pullup yes SW105[0] 47
+set_io -pullup yes SW105[1] 48
+
+set_io MEM_SPI_MOSI_IO0 14
+set_io MEM_SPI_SCLK 15
+set_io MEM_SPI_CS 16
+set_io MEM_SPI_MISO_IO1 17
+set_io MEM_SPI_WP_IO2 18
+set_io MEM_SPI_HLD_IO3 19

@@ -1,0 +1,73 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Sat Jun 26 22:31:13 2021
+[*]
+[dumpfile] "/home/ericb/KBADC/lattice/up5k_osc/github/up5k_osc/gateware/icarus/tb_osc2.vcd"
+[dumpfile_mtime] "Sat Jun 26 22:29:35 2021"
+[dumpfile_size] 15039039
+[savefile] "/home/ericb/KBADC/lattice/up5k_osc/github/up5k_osc/gateware/icarus/tb_osc2.gtkw"
+[timestart] 261578300
+[size] 1270 781
+[pos] -1 -1
+*-17.428783 258310349 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_osc2.
+[treeopen] tb_osc2.uut.
+[sst_width] 217
+[signals_width] 222
+[sst_expanded] 1
+[sst_vpaned_height] 204
+@22
+tb_osc2.uut.a0[11:0]
+@28
+tb_osc2.uut.a0_v
+@22
+tb_osc2.uut.a1[11:0]
+@28
+tb_osc2.uut.a1_v
+@22
+tb_osc2.uut.a2[11:0]
+@28
+tb_osc2.uut.a2_v
+@22
+tb_osc2.uut.a3[11:0]
+@28
+tb_osc2.uut.a3_v
+tb_osc2.uut.adc_clk
+tb_osc2.uut.adc_cs
+tb_osc2.uut.adc_si
+tb_osc2.uut.adc_so
+tb_osc2.uut.clk
+tb_osc2.uut.clk_cnt[2:0]
+tb_osc2.uut.diag[1:0]
+tb_osc2.uut.ena
+@22
+tb_osc2.uut.frq[31:0]
+@28
+tb_osc2.uut.mod1[1:0]
+tb_osc2.uut.mod2[1:0]
+tb_osc2.uut.pdm_l_n
+tb_osc2.uut.pdm_l_p
+tb_osc2.uut.pdm_r_n
+tb_osc2.uut.pdm_r_p
+@22
+tb_osc2.uut.phs[31:0]
+tb_osc2.uut.pwm[15:0]
+@28
+tb_osc2.uut.pwm_b
+tb_osc2.uut.pwm_g
+tb_osc2.uut.pwm_r
+tb_osc2.uut.pwm_v
+tb_osc2.uut.range[1:0]
+tb_osc2.uut.rate
+tb_osc2.uut.reset
+@22
+tb_osc2.uut.saw[15:0]
+tb_osc2.uut.sin[15:0]
+tb_osc2.uut.src_l[15:0]
+tb_osc2.uut.src_r[15:0]
+@28
+tb_osc2.uut.sync
+tb_osc2.uut.sync_d
+tb_osc2.uut.sync_edge
+[pattern_trace] 1
+[pattern_trace] 0
