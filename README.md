@@ -57,7 +57,7 @@ high sample rates that the timing jitter becomes imperceptible. This is the
 method that up5k_osc uses - an audio-rate oscillator is synthesized at sample
 rates in excess of 10MHz which knocks the aliases of even the buzziest narrow
 pulse wave down below 80dBfs. Differential Pulse Density Modulation is used to
-do the digital-to-analog conversion in an enexpensive yet highly linear fashion.
+do the digital-to-analog conversion in an inexpensive yet highly linear fashion.
 
 ## Theory of Operation
 The up5k_osc system comprises a power supply, ADC, Flash Memory, FPGA and analog
